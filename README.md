@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning stuff...
 - 🌱 I’m currently learning git xD
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: bruno.duarte97@hotmail.com
+- 📫 How to reach me: bruno.duarte1997@hotmail.com
 
 <!---
 bmmduarte/bmmduarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
