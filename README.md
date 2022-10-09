@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmmduarte
-- 📫 How to reach me: bmm.duarte97@gmail.com
+- 📫 How to reach me: bruno.duarte1997@hotmail.com
 
 <!---
 bmmduarte/bmmduarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
